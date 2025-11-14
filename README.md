@@ -14,7 +14,7 @@ Welcome to my GitHub! I'm passionate about building solutions that solve real-wo
 * 💻 Interested in **Software Engineering (Dev, Security, Management)**, **Cybersecurity**, **AI/ML**, and **Automation**
 * 🧠 Currently focused on improving my **programming foundations**, **data skills**, and **system design thinking**
 * 🌍 Based in **Pretoria, South Africa**
-* 🤝 Open to collaborating on meaningful and challenging projects
+* * 🤝 Open to collaborating on meaningful and challenging projects
 
 ---
 
@@ -65,8 +65,7 @@ Welcome to my GitHub! I'm passionate about building solutions that solve real-wo
 
 ## 📫 Contact
 
-* **Email:** *(add your email)*
-* **LinkedIn:** *(optional)*
+* **LinkedIn:** *www.linkedin.com/in/bonga-manzini*
 
 ---
 
