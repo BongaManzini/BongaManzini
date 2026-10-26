@@ -48,10 +48,9 @@ From enterprise Active Directory defense and commercial penetration testing to i
   - **NIST SP 800-61 Rev 2 SOPs**: Enterprise Ransomware Containment Playbook, Business Email Compromise (BEC) & M365 session kill workflows, and Supply Chain CI/CD poisoning defense.
   - **Automated CIS Benchmark Level 2 Auditor**: Production Bash script inspecting Linux hosts against CIS Level-2 security controls (`cis_level2_auditor.sh`) and generating structured compliance scorecards (`cis_benchmark_reporter.py`).
 
-### 4. Autonomous Threat Detection & Packet Analysis
+### 4. Autonomous Threat Detection & Packet Interception
+- **[IronTunnel: Autonomic Zero-Trust Network Defense](https://github.com/BongaManzini/irontunnel)** — Integrated zero-trust defense platform unifying high-throughput C++/WinPcap raw packet interception with an autonomous Python self-healing firewall orchestration daemon. Sub-second mitigation of ARP cache poisonings, TCP SYN floods, rogue DHCP, and DNS redirects via iptables/nftables. `[C++, WinPcap, Python, Scapy, Zero-Trust, AsyncIO]`
 - **[DeepSentryAI](https://github.com/BongaManzini/deep-sentry-ai)** — Real-time security console for call centers detecting synthetic voice clones, manipulated video feeds, and network anomalies with sub-second latency. `[Python, OpenCV, Audio DSP, AsyncIO]`
-- **[Self-Healing Network System](https://github.com/BongaManzini/self-healing-network)** — Autonomous network threat detection system monitoring live packet streams and executing automated iptables/nftables firewall auto-remediation. `[Python, Flask, Scapy, Iptables]`
-- **[Network Threat Monitor (C++ / WinPcap)](https://github.com/BongaManzini/network-threat-monitor-cpp)** — High-speed Windows desktop packet sniffer detecting port scans, MITM attacks, and abnormal bandwidth consumption via native Win32 controls. `[C++, WinPcap, Win32 API]`
 - **[UbuntuSec Awareness Platform](https://github.com/BongaManzini/ubuntu-sec)** — Gamified cybersecurity education platform rooted in Ubuntu philosophy. `[HTML5 Canvas, JavaScript, CSS3]` • **[Live Demo](https://bongamanzini.github.io/ubuntu-sec/)**
 - **[Cybersecurity Threat Intelligence Dashboard](https://github.com/BongaManzini/cybersecurity-threat-dashboard)** — Threat intelligence dashboard visualizing attack vectors across 40,000+ incident logs. `[Jupyter, Voilà, Pandas, Plotly]`
 
@@ -100,20 +99,50 @@ Located in `Web-Applications/Automation-and-Extensions/`:
 
 ---
 
-## 🇿🇦 The South African Informatics Portfolio: Civic Verification & Public Services
+## 🔬 Empirical Research Sites & Public Verification Platforms
 
-| Project | Live Demo | Repository | Description |
+Projects exploring empirical, demographic, legal, and socio-historical questions without a narrow commercial app model are architected under an **11-Point Empirical Research Framework** embedded directly into each repository and interactive modal:
+- **The 5 Ws & How**: Who, Where, Why, How, When
+- **Problem Statement & Civic Core**: Root cause analysis and public fallacies addressed
+- **Data Sourced & Selection Rationale**: Audited provenance (Stats SA, DTI Gazette, SALRC, TRC, SARS)
+- **Methodology & Data Engineering**: Mathematical normalization, statutory cross-referencing, spatial GIS
+- **Planned Societal Outcomes & Impact**: Civic literacy, public policy de-escalation, factual counter-narratives
+- **Political Economy & Market Understanding**: Addressing scapegoating, legislative ambiguity, and systemic bottlenecks
+- **Interactive Simulations**: Friction-free empirical calculators and visualizers
+
+| Research Site | Live Interactive Site | GitHub Repository | Empirical Research Scope & Data Source |
 | :--- | :--- | :--- | :--- |
-| **B-BBEE Scorecard Simulator** | [Live App ↗](https://bongamanzini.github.io/bee-simulator-reality-check/) | [`bee-simulator-reality-check`](https://github.com/BongaManzini/bee-simulator-reality-check) | **Mathematical decision-support system** modeling DTI Codes of Good Practice (Gazette 36928). Proves that 100% white-owned SMEs achieve Level 4 compliance through skills and supplier development without equity alteration. |
-| **The Law Auditor** | [Live App ↗](https://bongamanzini.github.io/racelaw-auditor/) | [`racelaw-auditor`](https://github.com/BongaManzini/racelaw-auditor) | **Civic verification engine** auditing viral lists of "145 race laws". Verifies cited statutes against the official *Government Gazette*, isolating Section 9(2) Constitutional redress from repealed Apartheid laws. |
-| **Xenophobia Myth-Buster** | [Live App ↗](https://bongamanzini.github.io/xenophobia-myth-buster/) | [`xenophobia-myth-buster`](https://github.com/BongaManzini/xenophobia-myth-buster) | **Interactive demographic visualizer** contrasting public estimates against Stats SA Census 2022 enumeration (2.42M foreign-born residents / 3.9% of population) and OECD job creation data. |
-| **Apartheid vs Democracy Dual Timeline** | [Live App ↗](https://bongamanzini.github.io/apartheid-vs-democracy-timeline/) | [`apartheid-vs-democracy-timeline`](https://github.com/BongaManzini/apartheid-vs-democracy-timeline) | **Comparative legal timeline** dissecting the "BEE is reverse Apartheid" fallacy by contrasting criminal penal bans (1948–1990) with voluntary developmental redress incentives (1994–2026). |
-| **Trade Truth Dashboard** | [Live App ↗](https://bongamanzini.github.io/trade-truth-dashboard/) | [`trade-truth-dashboard`](https://github.com/BongaManzini/trade-truth-dashboard) | **Macroeconomic telemetry tool** tracking South Africa's $14.2B export surplus with the US (platinum group metals, automotive, citrus), active AGOA duty-free status, and specific PEPFAR health funding. |
-| **Public Clinic Smart Queue & USSD Triage** | [Live App ↗](https://bongamanzini.github.io/public-clinic-smart-queue/) | [`public-clinic-smart-queue`](https://github.com/BongaManzini/public-clinic-smart-queue) | **Healthcare process re-engineering** reducing 6+ hour pre-dawn clinic queues to scheduled arrival windows. Includes chronic medication fast-tracking (CCMDD) and a zero-data USSD gateway simulator (`*120*2546#`). |
-| **Stokvel Digital Trust Ledger** | [Live App ↗](https://bongamanzini.github.io/stokvel-digital-ledger/) | [`stokvel-digital-ledger`](https://github.com/BongaManzini/stokvel-digital-ledger) | **Communal FinTech platform** digitizing South Africa's R50-billion informal Stokvel economy with immutable transaction logs, rotational payout coordination, and dispute prevention. |
-| **GBV Support & Safe Shelter Directory** | [Live App ↗](https://bongamanzini.github.io/gbv-support-directory/) | [`gbv-support-directory`](https://github.com/BongaManzini/gbv-support-directory) | **Privacy-by-design crisis directory** for domestic abuse survivors. Built with a 1-click Quick Exit (ESC key), disguised tab mode, and direct zero-data hotline dialing (`*120*7867#`). |
-| **Spaza-Smart Inventory Predictor** | [Live App ↗](https://bongamanzini.github.io/spaza-smart-inventory/) | [`spaza-smart-inventory`](https://github.com/BongaManzini/spaza-smart-inventory) | **Decision-support forecasting engine** for township Spaza shops predicting stockouts based on the 300%–450% demand surge during monthly SASSA grant payment cycles. *(Python + Web)* |
-| **Telco Brand Sentiment Sentinel** | [Live App ↗](https://bongamanzini.github.io/telco-sentiment-sentinel/) | [`telco-sentiment-sentinel`](https://github.com/BongaManzini/telco-sentiment-sentinel) | **Real-time NLP outage monitor and "Anger Index"** tracking customer grievances across Twitter/X and HelloPeter for Rain, Telkom, Vodacom, MTN, and Vumatel. *(Python + VADER)* |
+| **Xenophobia Myth-Buster** | [Launch ↗](https://bongamanzini.github.io/xenophobia-myth-buster/) | [`xenophobia-myth-buster`](https://github.com/BongaManzini/xenophobia-myth-buster) | Contrasts populist anti-migrant myths against **Stats SA Census 2022** (P0301.4: 3.9% / 2.42M foreign-born) and **OECD** township enterprise 2.3 citizen job multiplier. |
+| **The Law Auditor** | [Launch ↗](https://bongamanzini.github.io/racelaw-auditor/) | [`racelaw-auditor`](https://github.com/BongaManzini/racelaw-auditor) | Independent legislative audit engine verifying viral claims of "145 race laws" against the **official Government Gazette** and SALRC Project 25. |
+| **B-BBEE Reality Check Simulator** | [Launch ↗](https://bongamanzini.github.io/bee-simulator-reality-check/) | [`bee-simulator-reality-check`](https://github.com/BongaManzini/bee-simulator-reality-check) | Mathematical decision-support modeling **DTI Codes (Gazette 36928)**; proves 100% white-owned SMEs achieve Level 4 compliance through skills & supplier development without equity alteration. |
+| **Apartheid vs Democracy Dual Timeline** | [Launch ↗](https://bongamanzini.github.io/apartheid-vs-democracy-timeline/) | [`apartheid-vs-democracy-timeline`](https://github.com/BongaManzini/apartheid-vs-democracy-timeline) | Dual-axis comparative legal timeline contrasting criminal Apartheid penal bans (1948–1990) with voluntary Constitutional redress incentives (1994–2026). |
+| **Trade Truth Dashboard** | [Launch ↗](https://bongamanzini.github.io/trade-truth-dashboard/) | [`trade-truth-dashboard`](https://github.com/BongaManzini/trade-truth-dashboard) | Macroeconomic telemetry tracking South Africa's **\$14.2B export surplus** with the US, active AGOA duty-free status, and specific PEPFAR bilateral healthcare support. |
+| **June 16 Soweto Memorial Experience** | [Launch ↗](https://bongamanzini.github.io/june16-memorial-site/) | [`june16-memorial-site`](https://github.com/BongaManzini/june16-memorial-site) | Spatial 3D WebGL memorial synthesizing Bantu Education Act history, TRC testimonies, SAHO archives, and spatial acoustics. |
+| **Sociology Nexus** | [Repository ↗](https://github.com/BongaManzini/sociology-nexus) | [`sociology-nexus`](https://github.com/BongaManzini/sociology-nexus) | Decolonial epistemology and sociological learning platform built with Go + HTMX for zero-overhead bandwidth accessibility for UNISA distance students. |
+| **CivicPulse Gauteng 2026** | [Launch ↗](https://civicpulse-gauteng-2026.netlify.app/) | [`CivicPulse`](https://github.com/BongaManzini/CivicPulse) | *DIRISA Student Datathon 2026 Finalist*: Municipal socio-economic deprivation friction indexing & voter turnout forecasting across Gauteng's 509 wards. |
+
+---
+
+## ⚡ Production Applications & Systems Engineering
+
+Every application is engineered with an explicit **Product Thought Process & System Architecture**:
+- **Problem Statement & Target Persona**: Defining acute operational friction for specific user personas
+- **Architectural Decisions & Trade-Offs**: Edge ML, client-side DSP, zero-cloud overhead, and high-concurrency protocols
+- **UX & Design Philosophy**: Accessibility-first, neo-brutalist clarity, and high-contrast ergonomics
+- **User Journey & Future Technical Roadmap**: Scalable iteration pathways
+
+| Application | Live App / Demo | GitHub Repository | Architectural Highlight & Thought Process |
+| :--- | :--- | :--- | :--- |
+| **IronTunnel** | [Daemon Binary](https://github.com/BongaManzini/irontunnel) | [`irontunnel`](https://github.com/BongaManzini/irontunnel) | **Zero-Trust Autonomic Defense**: High-speed C++ WinPcap packet sniffer + Python Scapy self-healing firewall auto-remediation daemon. |
+| **CrateFlow Audio Engine** | [Launch ↗](https://bongamanzini.github.io/crateflow-audio-engine/) | [`crateflow-audio-engine`](https://github.com/BongaManzini/crateflow-audio-engine) | Zero-cloud-cost client-side DSP audio engine (Web Audio API) + Native Android Jetpack Compose client; 4-bar automated DJ transitions & Camelot Wheel sorting. |
+| **TryOn AR Commerce** | [Launch ↗](https://bongamanzini.github.io/tryon-ar-commerce/) | [`tryon-ar-commerce`](https://github.com/BongaManzini/tryon-ar-commerce) | Cross-platform Flutter AR: On-device ML Kit selfie segmentation, 2D Matrix4 affine canvas compositing, and ARCore live plane detection with Shopify GraphQL. |
+| **Finish The Line** | [Launch ↗](https://bongamanzini.github.io/finish-the-line-trivia/) | [`finish-the-line-trivia`](https://github.com/BongaManzini/finish-the-line-trivia) | Progressive clue multiplayer trivia: 100+ quote decks, couch co-op keyboard buzzers, and instant LAN Wi-Fi smartphone controller pairing via room codes. |
+| **FocusFlux** | [Launch ↗](https://bongamanzini.github.io/focusflux/) | [`focusflux`](https://github.com/BongaManzini/focusflux) | ADHD cognitive wellness ecosystem: 8 gamified sensory exercises, Google Gemini conversational grounding AI, and secure Firebase synchronization. |
+| **Public Clinic Smart Queue** | [Launch ↗](https://bongamanzini.github.io/public-clinic-smart-queue/) | [`public-clinic-smart-queue`](https://github.com/BongaManzini/public-clinic-smart-queue) | Healthcare process re-engineering: Virtual ticketing replacing 6+ hour pre-dawn queues, CCMDD fast-tracking, and zero-data USSD gateway simulator (`*120*2546#`). |
+| **Stokvel Digital Ledger** | [Launch ↗](https://bongamanzini.github.io/stokvel-digital-ledger/) | [`stokvel-digital-ledger`](https://github.com/BongaManzini/stokvel-digital-ledger) | Informal community savings club accounting ledger, audit trail, and rotational payout coordinator digitizing the R50B informal economy. |
+| **GBV Support Directory** | [Launch ↗](https://bongamanzini.github.io/gbv-support-directory/) | [`gbv-support-directory`](https://github.com/BongaManzini/gbv-support-directory) | Privacy-by-design crisis directory for GBV survivors featuring 1-click Quick Exit (ESC key), disguised tab mode, and direct zero-data hotline dialing (`*120*7867#`). |
+| **Spaza-Smart Inventory** | [Launch ↗](https://bongamanzini.github.io/spaza-smart-inventory/) | [`spaza-smart-inventory`](https://github.com/BongaManzini/spaza-smart-inventory) | Township retail decision-support tool forecasting stockouts based on the 300%–450% demand surge during monthly SASSA grant payment cycles. |
+| **Telco Sentiment Sentinel** | [Launch ↗](https://bongamanzini.github.io/telco-sentiment-sentinel/) | [`telco-sentiment-sentinel`](https://github.com/BongaManzini/telco-sentiment-sentinel) | Real-time NLP brand sentiment monitor & "Anger Index" tracking customer grievances across Twitter/X and HelloPeter for South African ISPs. |
 
 ---
 
