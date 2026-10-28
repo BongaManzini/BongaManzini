@@ -1,24 +1,24 @@
-# Bonga Manzini 👋
+# Bonga Manzini
 ### Informatics Student • Software Builder • Cybersecurity & AI Enthusiast
-**Pretoria, South Africa 🇿🇦 • UNISA (BSc Informatics)**
+**Pretoria, South Africa • UNISA (BSc Informatics)**
 
-[![Live Portfolio](https://img.shields.io/badge/🌐_Interactive_Portfolio-bongamanzini.github.io%2Fportfolio-06b6d4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://bongamanzini.github.io/portfolio/)
-[![GitHub Repositories](https://img.shields.io/badge/📦_GitHub_Repositories-39_Projects-10b981?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BongaManzini?tab=repositories)
-[![Hackathon Finalist](https://img.shields.io/badge/🏆_Competitive_Hackathons-7_Honors-f59e0b?style=for-the-badge&logo=award&logoColor=white)](https://bongamanzini.github.io/portfolio/)
+[![Live Portfolio](https://img.shields.io/badge/Interactive_Portfolio-bongamanzini.github.io%2Fportfolio-06b6d4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://bongamanzini.github.io/portfolio/)
+[![GitHub Repositories](https://img.shields.io/badge/GitHub_Repositories-39_Projects-10b981?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BongaManzini?tab=repositories)
+[![Hackathon Finalist](https://img.shields.io/badge/Competitive_Hackathons-7_Honors-f59e0b?style=for-the-badge&logo=award&logoColor=white)](https://bongamanzini.github.io/portfolio/)
 
 ---
 
-## ⚡ About Me
+## About Me
 
 Hi there! I am an undergraduate student studying **BSc Informatics at the University of South Africa (UNISA)** in Pretoria.
 
 I love building practical software that solves real, everyday problems in South Africa—from healthcare queue booking so grandmothers do not have to wait in the cold from 4:00 AM, to tools that help small township businesses, interactive fact-checking sites that clear up viral social media rumors, and defensive cybersecurity tools like **IronTunnel**.
 
-> 📍 **Live Interactive Showcase**: You can explore all my projects with live demos, full explanations of why I built them, and quick-clone commands at **[bongamanzini.github.io/portfolio](https://bongamanzini.github.io/portfolio/)**.
+> **Live Interactive Showcase**: You can explore all my projects with live demos, full explanations of why I built them, and quick-clone commands at **[bongamanzini.github.io/portfolio](https://bongamanzini.github.io/portfolio/)**.
 
 ---
 
-## 🏆 Competitive Hackathons & Datathons
+## Competitive Hackathons & Datathons
 
 Here are the hackathon challenges I tackled, what the problem asked for, and what I built:
 
@@ -34,7 +34,7 @@ Here are the hackathon challenges I tackled, what the problem asked for, and wha
 
 ---
 
-## 🔬 Student Research & Fact-Checking Sites
+## Student Research & Fact-Checking Sites
 
 Whenever I saw wild rumors circulating on social media or in political debates, I wanted to see what the official government records and data actually say. I built these interactive websites so anyone can check the facts for themselves:
 
@@ -52,7 +52,7 @@ Whenever I saw wild rumors circulating on social media or in political debates, 
 
 ---
 
-## ⚡ Web & Mobile Applications
+## Web & Mobile Applications
 
 Here are the software applications I engineered to solve everyday practical problems:
 
@@ -80,7 +80,7 @@ Here are the software applications I engineered to solve everyday practical prob
 
 ---
 
-## 🛡️ Cybersecurity Labs, Penetration Testing & DFIR
+## ️ Cybersecurity Labs, Penetration Testing & DFIR
 
 - **[Threat Hunting & Defense Labs](https://github.com/BongaManzini/cybersecurity-threat-hunting-labs)**: Real Python scripts detecting Kerberoasting in Event 4769 logs, memory forensics with Volatility 3, and network packet jitter analysis.
 - **[Pentest Reports & CTF Writeups](https://github.com/BongaManzini/security-audits-and-pentest-reports)**: Full commercial-style 15-page penetration test report with CVSS 3.1 scoring, HackTheBox enterprise forest compromise, and Web3 smart contract audit.
@@ -88,7 +88,7 @@ Here are the software applications I engineered to solve everyday practical prob
 
 ---
 
-## 🧪 AI/ML Benchmarks, Extensions & Architecture
+## AI/ML Benchmarks, Extensions & Architecture
 
 - **[AI/ML Research Benchmarks](https://github.com/BongaManzini/aiml-research-labs-benchmarks)**: Measuring LLM hallucinations with the RAG Triad, speeding up vision models 3.7x via INT8 quantization, and explaining credit decisions with SHAP.
 - **[DevDesk Pro](https://github.com/BongaManzini/devdesk-pro)**: Manifest V3 Chrome Extension in the browser Side Panel with macro automation, QueueMetrics scraping, and web inspection tools.
@@ -97,23 +97,23 @@ Here are the software applications I engineered to solve everyday practical prob
 
 ---
 
-## 🛠️ Languages & Tools I Use
+## ️ Languages & Tools I Use
 
 ```
 ┌───────────────────┬────────────────────────────────────────────────────────────────────────┐
-│ Area              │ Tools & Languages                                                      │
+│ Area       │ Tools & Languages                           │
 ├───────────────────┼────────────────────────────────────────────────────────────────────────┤
-│ Languages         │ Python 3, TypeScript, JavaScript, Go (Golang), Kotlin, Dart, C++, SQL, Bash │
-│ Web & Mobile      │ React 19, Vite, Tailwind CSS, Three.js (WebGL), Web Audio API, Flutter  │
-│ Cybersecurity     │ Active Directory, Wireshark, Volatility 3, Splunk, Sigma, Linux Security│
-│ AI, ML & Data     │ scikit-learn, ONNX Runtime, SHAP, Google Gemini API, Pandas, NumPy, OpenCV│
-│ Systems & Cloud   │ Docker, GitHub Actions, Linux (Ubuntu/Debian), LocalStorage, WebSockets│
+│ Languages     │ Python 3, TypeScript, JavaScript, Go (Golang), Kotlin, Dart, C++, SQL, Bash │
+│ Web & Mobile   │ React 19, Vite, Tailwind CSS, Three.js (WebGL), Web Audio API, Flutter │
+│ Cybersecurity   │ Active Directory, Wireshark, Volatility 3, Splunk, Sigma, Linux Security│
+│ AI, ML & Data   │ scikit-learn, ONNX Runtime, SHAP, Google Gemini API, Pandas, NumPy, OpenCV│
+│ Systems & Cloud  │ Docker, GitHub Actions, Linux (Ubuntu/Debian), LocalStorage, WebSockets│
 └───────────────────┴────────────────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-## 🤝 Contributing, Pull Requests & Community Feedback
+## Contributing, Pull Requests & Community Feedback
 
 Whether you are a fellow student, open-source developer, or recruiter:
 - **Pull Requests (PRs) are warmly welcomed!** If you spot a bug, want to improve documentation, add tests, or optimize performance, please feel free to fork any repository and open a PR.
