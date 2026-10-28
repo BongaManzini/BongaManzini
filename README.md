@@ -3,7 +3,7 @@
 **Pretoria, South Africa • UNISA (BSc Informatics)**
 
 [![Live Portfolio](https://img.shields.io/badge/Interactive_Portfolio-bongamanzini.github.io%2Fportfolio-06b6d4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://bongamanzini.github.io/portfolio/)
-[![GitHub Repositories](https://img.shields.io/badge/GitHub_Repositories-39_Projects-10b981?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BongaManzini?tab=repositories)
+[![GitHub Repositories](https://img.shields.io/badge/GitHub_Repositories-40_Projects-10b981?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BongaManzini?tab=repositories)
 [![Hackathon Finalist](https://img.shields.io/badge/Competitive_Hackathons-7_Honors-f59e0b?style=for-the-badge&logo=award&logoColor=white)](https://bongamanzini.github.io/portfolio/)
 
 ---
@@ -68,6 +68,7 @@ Here are the software applications I engineered to solve everyday practical prob
 | **CrateFlow Audio Engine** | [Try It ↗](https://bongamanzini.github.io/crateflow-audio-engine/) | [`crateflow-audio-engine`](https://github.com/BongaManzini/crateflow-audio-engine) | Traces where songs sampled vintage records and mixes tracks with an automated 4-bar DJ transition (Web Audio API + Android Kotlin). |
 | **TryOn AR Commerce** | [Try It ↗](https://bongamanzini.github.io/tryon-ar-commerce/) | [`tryon-ar-commerce`](https://github.com/BongaManzini/tryon-ar-commerce) | Cross-platform Flutter app that cuts out your selfie on your phone using ML Kit and lets you try on clothes in augmented reality. |
 | **Finish The Line** | [Try It ↗](https://bongamanzini.github.io/finish-the-line-trivia/) | [`finish-the-line-trivia`](https://github.com/BongaManzini/finish-the-line-trivia) | Real-time party trivia game where clues appear word-by-word and players buzz in using their phones as game buzzers. |
+| **Indie Game Arcade** | [Play Now ↗](https://bongamanzini.github.io/indie-game-arcade/) | [`indie-game-arcade`](https://github.com/BongaManzini/indie-game-arcade) | Unified browser arcade featuring 4 technical games built from scratch with pure HTML5 Canvas and procedural Web Audio synthesis (Cipher Breach, The Blightstead, Resonance Ping, Grand Cross Crucible). |
 | **FocusFlux** | [Try It ↗](https://bongamanzini.github.io/focusflux/) | [`focusflux`](https://github.com/BongaManzini/focusflux) | Gentle ADHD wellness web app with 8 bite-sized games to warm up your focus and conversational Google Gemini AI check-ins. |
 | **Stokvel Digital Trust** | [Try It ↗](https://bongamanzini.github.io/stokvel-digital-ledger/) | [`stokvel-digital-ledger`](https://github.com/BongaManzini/stokvel-digital-ledger) | Digital accounting ledger for informal community savings clubs to prevent math mistakes and money arguments. |
 | **GBV Support Directory** | [Try It ↗](https://bongamanzini.github.io/gbv-support-directory/) | [`gbv-support-directory`](https://github.com/BongaManzini/gbv-support-directory) | Safe crisis directory for domestic abuse survivors with a 1-click Quick Exit (ESC key) to hide the screen instantly. |
