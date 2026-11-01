@@ -3,8 +3,8 @@
 **Pretoria, South Africa • UNISA (BSc Informatics)**
 
 [![Live Portfolio](https://img.shields.io/badge/Interactive_Portfolio-bongamanzini.github.io%2Fportfolio-06b6d4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://bongamanzini.github.io/portfolio/)
-[![GitHub Repositories](https://img.shields.io/badge/GitHub_Repositories-40_Projects-10b981?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BongaManzini?tab=repositories)
-[![Hackathon Finalist](https://img.shields.io/badge/Competitive_Hackathons-7_Honors-f59e0b?style=for-the-badge&logo=award&logoColor=white)](https://bongamanzini.github.io/portfolio/)
+[![GitHub Repositories](https://img.shields.io/badge/GitHub_Repositories-60_Projects-10b981?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BongaManzini?tab=repositories)
+[![Hackathon Finalist](https://img.shields.io/badge/Competitive_Hackathons-8_Honors-f59e0b?style=for-the-badge&logo=award&logoColor=white)](https://bongamanzini.github.io/portfolio/)
 
 ---
 
@@ -23,8 +23,8 @@ I love building practical software that solves real, everyday problems in South 
 Here are the hackathon challenges I tackled, what the problem asked for, and what I built:
 
 | Hackathon & Event | The Challenge Prompt | The Deliverable Built | Repo Link |
-| :--- | :--- | :--- | :--- |
-| **DIRISA Datathon** | *"Does Strikes/Public Protest have a relation with Service Delivery? Using data provided by publicly available sites, figure out if there's a relationship in South Africa."* | **StrikePulse SA**: Empirical data science platform analyzing Pearson correlation ($r = +0.88$) and OLS regressions between Stats SA municipal backlogs and Municipal IQ strike rates. | [`dirisa-service-delivery-protests`](https://github.com/BongaManzini/dirisa-service-delivery-protests) |
+| **DIRISA Datathon (2025)** | *"Does Strikes/Public Protest have a relation with Service Delivery? Using data provided by publicly available sites, figure out if there's a relationship in South Africa."* | **StrikePulse SA**: Empirical data science platform analyzing Pearson correlation ($r = +0.88$) and OLS regressions between Stats SA municipal backlogs and Municipal IQ strike rates. | [`dirisa-service-delivery-protests`](https://github.com/BongaManzini/dirisa-service-delivery-protests) |
+| **DIRISA SDC (2026)** | *"To what extent do multi-dimensional deprivation (Stats SA Census 2022) and ward-level party dominance (IEC 2016/2021) explain differences in voter participation, especially youth participation, across Gauteng metropolises ahead of the 2026 LGE?"* | **CivicPulse Gauteng**: Econometric spatial intelligence platform analyzing deprivation friction ($H_1: r = -0.412$) and safe-seat demobilisation ($H_2$) across 354 wards & 2,268 voting districts, featuring a GIS map of 203 temporary canvas tent stations, an interactive policy simulator, and an enterprise web dashboard. | [`CivicPulse`](https://github.com/BongaManzini/CivicPulse) |
 | **Mintek SCI Grad Hackathon (2025)** | *"AI for Mineral Processing Optimisation: How can AI and ML improve recovery rates in flotation circuits?"* | **Mintek Flotation Plant AI Optimizer**: Predictive machine learning model forecasting silica impurities ahead of physical lab assays to dynamically adjust chemical reagent dosing. | [`mintek-flotation-ai-optimizer`](https://github.com/BongaManzini/mintek-flotation-ai-optimizer) |
 | **UniSA Annual Hackathon** | *"Deep Learning Aerial Image Project: Given aerial images, use AI and ML techniques to identify aircraft."* | **AeroScan AI**: Deep learning web platform where users drop an aerial airfield image to detect, classify (fighters, airliners, cargo, drones), and extract aerodynamic telemetry. | [`aerial-aircraft-identifier`](https://github.com/BongaManzini/aerial-aircraft-identifier) |
 | **Security Summit ITWeb** | *"Network Router Firewall and Management: A system that can be adopted into a live business."* | **IronTunnel**: Zero-Trust network daemon pairing high-speed C++ raw packet sniffing with automated Python iptables defense to stop ARP poisoning and SYN floods. | [`irontunnel`](https://github.com/BongaManzini/irontunnel) |
@@ -39,8 +39,8 @@ Here are the hackathon challenges I tackled, what the problem asked for, and wha
 Whenever I saw wild rumors circulating on social media or in political debates, I wanted to see what the official government records and data actually say. I built these interactive websites so anyone can check the facts for themselves:
 
 | Research Site | Live Site | GitHub Repo | What I Researched In Plain English |
-| :--- | :--- | :--- | :--- |
-| **StrikePulse SA (DIRISA)** | [Try It ↗](https://bongamanzini.github.io/dirisa-service-delivery-protests/) | [`dirisa-service-delivery-protests`](https://github.com/BongaManzini/dirisa-service-delivery-protests) | *DIRISA Datathon*: Statistical analysis testing whether water, power, and sewage backlogs directly predict community strike action across South African metros. |
+| **StrikePulse SA (DIRISA 2025)** | [Try It ↗](https://bongamanzini.github.io/dirisa-service-delivery-protests/) | [`dirisa-service-delivery-protests`](https://github.com/BongaManzini/dirisa-service-delivery-protests) | *DIRISA Datathon 2025*: Statistical analysis testing whether water, power, and sewage backlogs directly predict community strike action across South African metros. |
+| **CivicPulse Gauteng (DIRISA 2026)** | [Try It ↗](https://civicpulse-gauteng-2026.netlify.app/) | [`CivicPulse`](https://github.com/BongaManzini/CivicPulse) | *DIRISA Student Datathon Challenge 2026*: Spatial econometric research analyzing why youth voter turnout dropped to 23.1% in Gauteng; proves structural deprivation and temporary canvas tent voting stations cause disengagement rather than "voter apathy". |
 | **Xenophobia Myth-Buster** | [Try It ↗](https://bongamanzini.github.io/xenophobia-myth-buster/) | [`xenophobia-myth-buster`](https://github.com/BongaManzini/xenophobia-myth-buster) | Compares viral claims of '30 million immigrants' against the official **Stats SA Census 2022** count (3.9% / 2.42M) and OECD township job data. |
 | **The Law Auditor** | [Try It ↗](https://bongamanzini.github.io/racelaw-auditor/) | [`racelaw-auditor`](https://github.com/BongaManzini/racelaw-auditor) | Audits viral claims of '145 race laws' against the official **Government Gazette**, showing which laws were repealed decades ago and which are constitutional redress. |
 | **B-BBEE Reality Check** | [Try It ↗](https://bongamanzini.github.io/bee-simulator-reality-check/) | [`bee-simulator-reality-check`](https://github.com/BongaManzini/bee-simulator-reality-check) | Interactive calculator showing how the **DTI Gazette 36928 scorecard** works; proves small businesses can achieve Level 4 compliance through skills and local buying without changing ownership. |
@@ -58,6 +58,7 @@ Here are the software applications I engineered to solve everyday practical prob
 
 | Application | Live Demo | GitHub Repo | The Problem It Solves |
 | :--- | :--- | :--- | :--- |
+| **CivicPulse Gauteng** | [Try It ↗](https://civicpulse-gauteng-2026.netlify.app/) | [`CivicPulse`](https://github.com/BongaManzini/CivicPulse) | **DIRISA SDC 2026**: Interactive GIS choropleth, AI assistant, and what-if econometric policy simulator across 354 Gauteng wards and 2,268 voting districts to forecast and reverse youth voter turnout decline. |
 | **IronTunnel** | [Daemon Binary](https://github.com/BongaManzini/irontunnel) | [`irontunnel`](https://github.com/BongaManzini/irontunnel) | **Security Summit ITWeb**: Zero-Trust network defense combining fast C++ packet sniffing with Python Scapy automated firewall auto-remediation. |
 | **AeroScan AI** | [Try It ↗](https://bongamanzini.github.io/aerial-aircraft-identifier/) | [`aerial-aircraft-identifier`](https://github.com/BongaManzini/aerial-aircraft-identifier) | **UniSA Hackathon**: Deep learning aerial platform detecting aircraft in satellite/drone imagery with real-time bounding boxes and aerodynamic specs. |
 | **SkyApp Planetarium** | [Try It ↗](https://bongamanzini.github.io/sky-app/) | [`sky-app`](https://github.com/BongaManzini/sky-app) | **NASA Space Apps Challenge**: 3D night-sky star map with mobile augmented reality camera view that runs offline as a PWA. |
@@ -130,3 +131,9 @@ Whether you are a fellow student, open-source developer, or recruiter:
   2. Create a feature branch (`git checkout -b feature/cool-enhancement`)
   3. Commit your changes with clear, friendly comments explaining what changed
   4. Push to your branch and open a Pull Request!
+
+---
+
+<div align="center">
+  <sub>© 2026 Bonga Manzini Portfolio Ecosystem™ • Platform Architecture & Engineering by <strong>Bonga Manzini</strong> • <a href="https://github.com/BongaManzini/BongaManzini">GitHub Repository</a></sub>
+</div>
