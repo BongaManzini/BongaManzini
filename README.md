@@ -76,12 +76,15 @@ Here are the software applications I engineered to solve everyday practical prob
 | **Telco Sentiment Sentinel** | [Try It ↗](https://bongamanzini.github.io/telco-sentiment-sentinel/) | [`telco-sentiment-sentinel`](https://github.com/BongaManzini/telco-sentiment-sentinel) | Scrapes customer complaints on social media to spot internet service provider outages in real time. |
 | **UNISA Nexus Hub** | [View Code ↗](https://github.com/BongaManzini/unisa-nexus-hub) | [`unisa-nexus-hub`](https://github.com/BongaManzini/unisa-nexus-hub) | Clean study dashboard with assignment countdown clocks and exam schedules for UNISA distance students. |
 | **Master Planner Pro** | [View Code ↗](https://github.com/BongaManzini/master-planner-pro) | [`master-planner-pro`](https://github.com/BongaManzini/master-planner-pro) | High-contrast daily planner and habit tracker that saves everything in local storage and works 100% offline. |
+| **Automated Algo Trading** | [View Code ↗](https://github.com/BongaManzini/automated-multi-stock-algo-trading-platform) | [`automated-multi-stock-algo-trading-platform`](https://github.com/BongaManzini/automated-multi-stock-algo-trading-platform) | Cross-platform algorithmic trading platform with real-time technical indicators, portfolio engine, and Google Gemini AI. |
+| **Anime Scene Finder** | [View Code ↗](https://github.com/BongaManzini/brave-hypatia) | [`anime-scene-finder`](https://github.com/BongaManzini/brave-hypatia) | AI-powered AMV scene finder using PySceneDetect cut boundary analysis, FastAPI backend, React frontend, and FFmpeg batch clip exporter. |
+| **StudyPlan Platform** | [View Code ↗](https://github.com/BongaManzini/StudyPlan) | [`StudyPlan`](https://github.com/BongaManzini/StudyPlan) | UNISA student custom module study planner and recorded lecture transcription retrieval engine. |
 | **DeepSentry AI** | [View Code ↗](https://github.com/BongaManzini/deep-sentry-ai) | [`deep-sentry-ai`](https://github.com/BongaManzini/deep-sentry-ai) | Real-time console that analyzes audio streams to detect synthetic AI voice clones in bank call centers. |
-| **Media Cloud Syncer** | [View Code ↗](https://github.com/BongaManzini/media-cloud-syncer) | [`media-cloud-syncer`](https://github.com/BongaManzini/media-cloud-syncer) | Desktop GUI tool in Python CustomTkinter for downloading video lectures to watch offline. |
+| **Media Cloud Syncer** | [View Code ↗](https://github.com/BongaManzini/media-cloud-syncer) | [`media-cloud-syncer`](https://github.com/BongaManzini/media-cloud-syncer) | Desktop GUI tool in Python CustomTkinter powered by a modular multi-thread yt-dlp downloader engine for offline lectures. |
 
 ---
 
-## ️ Cybersecurity Labs, Penetration Testing & DFIR
+## 🛡️ Cybersecurity Labs, Penetration Testing & DFIR
 
 - **[Threat Hunting & Defense Labs](https://github.com/BongaManzini/cybersecurity-threat-hunting-labs)**: Real Python scripts detecting Kerberoasting in Event 4769 logs, memory forensics with Volatility 3, and network packet jitter analysis.
 - **[Pentest Reports & CTF Writeups](https://github.com/BongaManzini/security-audits-and-pentest-reports)**: Full commercial-style 15-page penetration test report with CVSS 3.1 scoring, HackTheBox enterprise forest compromise, and Web3 smart contract audit.
@@ -89,9 +92,12 @@ Here are the software applications I engineered to solve everyday practical prob
 
 ---
 
-## AI/ML Benchmarks, Extensions & Architecture
+## ⚡ AI/ML Benchmarks, Extensions & Architecture
 
 - **[AI/ML Research Benchmarks](https://github.com/BongaManzini/aiml-research-labs-benchmarks)**: Measuring LLM hallucinations with the RAG Triad, speeding up vision models 3.7x via INT8 quantization, and explaining credit decisions with SHAP.
+- **[YouTube Commentary Intel](https://github.com/BongaManzini/youtube-commentary-intel)**: NLP topic commentary classifier and audience sentiment intelligence with dedicated Flask and Streamlit UI dashboards.
+- **[DCE CRM Automation Suite](https://github.com/BongaManzini/dce-assistant)**: Enterprise CRM Chrome extensions (Agent Pro, Admin, Supervisor, Support) with 1-tap ticket categorization and technical training manuals.
+- **[Telviva Workplace Projects](https://github.com/BongaManzini/telviva-projects)**: Contact centre shift provisioning service, shared QueueMetrics SDK, and microservices.
 - **[DevDesk Pro](https://github.com/BongaManzini/devdesk-pro)**: Manifest V3 Chrome Extension in the browser Side Panel with macro automation, QueueMetrics scraping, and web inspection tools.
 - **[IT Support Automation Hub](https://github.com/BongaManzini/it-support-tools-hub)**: Chrome Extension that lets support agents paste lists of ticket numbers from Excel to auto-close resolved tickets.
 - **[Distributed Architecture Blueprints](https://github.com/BongaManzini/distributed-architecture-blueprints)**: Working Python implementations of the Transactional Outbox Pattern (preventing lost messages) and Token Bucket rate limiting.
